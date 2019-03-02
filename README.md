@@ -1,6 +1,4 @@
-# DataScience
-Data Science Projects #1
-
+# Analysis on Haberman's Survival Data
 
 Title: Haberman's Survival Data
 
@@ -24,3 +22,5 @@ Attribute Information:
     Survival status (class attribute) 1 = the patient survived 5 years or longer 2 = the patient died within 5 year
 
 Missing Attribute Values: None
+
+Columns:Age,Operation, Nodes, Survival
