@@ -24,3 +24,5 @@ Attribute Information:
 Missing Attribute Values: None
 
 Columns:Age,Operation, Nodes, Survival
+
+Objective: Objective of this analysis is to classify the class variable into people who  have surivived after operation and people who didn't surivive. We try to create a simple model, in order to classify the same.
